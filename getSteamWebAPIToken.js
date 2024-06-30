@@ -1,7 +1,7 @@
 (async function() {
     const current_token = await getWebapiToken();
 
-    prompt("Token atual:", current_token);
+    prompt("Current SteamWebAPIToken (copy this and paste into 'steam_webapi_token.txt' file):", current_token);
 })();
 
 async function getWebapiToken() {
