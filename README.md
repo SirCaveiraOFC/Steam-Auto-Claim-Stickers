@@ -1,4 +1,4 @@
-# Steam Level Changer
+# Steam Auto Claim Sticker
 
 ## Description
 
