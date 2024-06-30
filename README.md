@@ -15,7 +15,7 @@ To use this script, follow these steps:
 
 1. **Access Your project directory:**
    - Place your Steam Web Api Token in the "steam_webapi_token.txt" file.
-   - To get the Steam Web Api Token, run this code on this [Steam Page](https://store.steampowered.com/category/action): [getSteamWebAPIToken.js](https://github.com/SirCaveiraOFC/Steam-Auto-Claim-Stickers/blob/main/getSteamWebAPIToken.js).
+   - To get the Steam Web Api Token, run [this code](https://github.com/SirCaveiraOFC/Steam-Auto-Claim-Stickers/blob/main/getSteamWebAPIToken.js) in this [Steam Page](https://store.steampowered.com/category/action)
    - Run the "Steam Auto Claim Stickers.pyw" file. It will run in the background on your PC. You will need to do this every time you restart your PC.
 
 ## Notes
