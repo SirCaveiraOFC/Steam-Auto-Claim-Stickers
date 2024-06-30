@@ -1,4 +1,4 @@
-# Steam Auto Claim Sticker
+# Steam Auto Claim Sticker (v1.0.0)
 
 ## Description
 
