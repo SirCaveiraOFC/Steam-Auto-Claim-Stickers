@@ -20,6 +20,6 @@ To use this script, follow these steps:
 
 ## Notes
 
-- This is the first release. Soon I will create an executable file (.exe) and make some improvements to the code.
+- This is the first release. Soon I will make some improvements to the code.
 - The SteamWebAPI Token changes sometimes, so you will always need to update the "steam_webapi_token.txt" file with the new SteamWebAPI Token.
 - You can add "Steam Auto Claim Stickers.pyw" to Windows startup, this way you will avoid having to start manually.
